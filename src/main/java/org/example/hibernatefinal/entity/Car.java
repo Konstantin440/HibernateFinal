@@ -7,7 +7,6 @@ import lombok.NoArgsConstructor;
 
 @Entity
 @Data
-@Embeddable
 @NoArgsConstructor
 
 public class Car {

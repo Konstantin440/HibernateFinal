@@ -5,7 +5,7 @@ import jakarta.persistence.*;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-@Embeddable
+
 @Entity
 @Data
 @NoArgsConstructor
